@@ -1,0 +1,520 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"j",
+				"j"
+			],
+			[
+				"buildin",
+				"buildings"
+			],
+			[
+				"bu",
+				"building"
+			],
+			[
+				"buldin",
+				"building"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"opera",
+				"operator"
+			],
+			[
+				"ope",
+				"operator"
+			],
+			[
+				"perm",
+				"permutations"
+			],
+			[
+				"permu",
+				"permutations"
+			],
+			[
+				"len",
+				"lengthOfPalindrome"
+			],
+			[
+				"charc",
+				"Character"
+			],
+			[
+				"chac",
+				"Character"
+			],
+			[
+				"shif",
+				"shifted"
+			],
+			[
+				"alpha",
+				"alpha1"
+			],
+			[
+				"apl",
+				"alpha2"
+			],
+			[
+				"al",
+				"alpha1"
+			],
+			[
+				"hays",
+				"haystackCharArray"
+			],
+			[
+				"ne",
+				"needleCharArray"
+			],
+			[
+				"ha",
+				"haystackCharArray"
+			],
+			[
+				"sy",
+				"System"
+			],
+			[
+				"firstInde",
+				"firstIndexGreaterThanLower"
+			],
+			[
+				"first",
+				"firstIndexGreaterThanUpper"
+			],
+			[
+				"firs",
+				"firstIndexGreaterThanLower"
+			],
+			[
+				"firstind",
+				"firstIndexGreaterThanUpper"
+			],
+			[
+				"pa",
+				"password2"
+			],
+			[
+				"paren",
+				"parent_id_url"
+			],
+			[
+				"repmodal",
+				"replyModal"
+			],
+			[
+				"data",
+				"data-id"
+			],
+			[
+				"tweet",
+				"tweetContainer"
+			],
+			[
+				"dadi",
+				"dateDisplay"
+			],
+			[
+				"post_sa",
+				"post_save_user_reveiver"
+			],
+			[
+				"get_ob",
+				"get_object_or_404"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"get_",
+				"get_object_or_404"
+			],
+			[
+				"res",
+				"rest_framework"
+			],
+			[
+				"for",
+				"form_id"
+			],
+			[
+				"action",
+				"action_url"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"Up",
+				"UpdateView"
+			],
+			[
+				"crea",
+				"create_view"
+			],
+			[
+				"Lis",
+				"ListView"
+			],
+			[
+				"lis",
+				"tweet_list_view"
+			],
+			[
+				"Sin",
+				"SignUp"
+			],
+			[
+				"Sign",
+				"SignUp"
+			],
+			[
+				"is",
+				"is_authenticated"
+			],
+			[
+				"fa-st",
+				"fa-stack-2x"
+			],
+			[
+				"fa-sta",
+				"fa-stack-1x"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"Si",
+				"SignUpForm"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/YOUNG/Project/GitHub/anagrams"
+	],
+	"file_history":
+	[
+		"/Users/YOUNG/Dev/djangocrm/src/outlook/views.py",
+		"/Users/YOUNG/Dev/djangocrm/src/outlook/urls.py",
+		"/Users/YOUNG/Dev/djangocrm/src/homepage/views.py",
+		"/Users/YOUNG/Dev/djangocrm/src/homepage/urls.py",
+		"/Users/YOUNG/Dev/djangocrm/src/djangocrm/urls.py",
+		"/Users/YOUNG/Dev/djangocrm/src/homepage/templates/homepage/home.html",
+		"/Users/YOUNG/Dev/djangocrm/src/homepage/templates/homepage/base.html",
+		"/Users/YOUNG/Dev/djangocrm/src/homepage/templates/home.html",
+		"/Users/YOUNG/Dev/djangocrm/src/homepage/templates/base.html",
+		"/Users/YOUNG/Dev/djangocrm/src/djangocrm/settings/base.py",
+		"/Users/YOUNG/Dev/djangocrm/src/templates/home.html",
+		"/Users/YOUNG/Dev/djangocrm/src/templates/base.html",
+		"/Users/YOUNG/Dev/djangocrm/src/outlook/templates/outlook/outlookHome.html",
+		"/Users/YOUNG/Dev/djangocrm/src/outlook/templates/outlook/layout.html",
+		"/Users/YOUNG/Dev/djangocrm/src/djangocrm/views.py",
+		"/Users/YOUNG/Dev/djangocrm/src/outlook/admin.py",
+		"/Users/YOUNG/Dev/djangocrm/src/outlook/apps.py",
+		"/Users/YOUNG/Dev/djangocrm/src/outlook/models.py",
+		"/Users/YOUNG/Dev/djangocrm/src/outlook/tests.py",
+		"/Users/YOUNG/Dev/djangocrm/src/djangocrm/settings/production.py",
+		"/Users/YOUNG/Dev/djangocrm/src/djangocrm/settings/local.py",
+		"/Users/YOUNG/Dev/djangocrm/src/manage.py",
+		"/Users/YOUNG/Dev/djangocrm/src/db.sqlite3",
+		"/Users/YOUNG/Dev/djangocrm/src/djangocrm.sublime-project",
+		"/Users/YOUNG/Dev/djangocrm/src/djangocrm/settings/__init__.py",
+		"/Users/YOUNG/Dev/djangocrm/src/djangocrm/settings.py",
+		"/Users/YOUNG/Project/OwnProject/my-web/src/assets/images/anime/land-3.jpg",
+		"/Users/YOUNG/Project/OwnProject/my-web/src/assets/images/anime/land-1.jpg",
+		"/Users/YOUNG/Project/OwnProject/my-web/src/karma.conf.js",
+		"/Users/YOUNG/Project/OwnProject/my-web/src/index.html",
+		"/Users/YOUNG/Project/OwnProject/my-web/src/favicon.ico",
+		"/Users/YOUNG/Project/OwnProject/my-web/src/browserslist",
+		"/Users/YOUNG/JOB/LeetCode/BigTiger/EditDistance.java",
+		"/Users/YOUNG/JOB/LeetCode/BigTiger/GasStation.java",
+		"/Users/YOUNG/JOB/LeetCode/BigTiger/CombinationSum.java",
+		"/Users/YOUNG/JOB/LeetCode/BigTiger/FindMinimumInRotatedSortedArray.java",
+		"/Users/YOUNG/JOB/LeetCode/BigTiger/RotateImage.java",
+		"/Users/YOUNG/JOB/LeetCode/BigTiger/MedianOfTwoSortedArrays.java",
+		"/Users/YOUNG/JOB/LeetCode/BigTiger/3Sum.java",
+		"/Users/YOUNG/JOB/LeetCode/BigTiger/MergeIntervals.java",
+		"/Users/YOUNG/JOB/LeetCode/Matrix/bestMeetingPoint.java",
+		"/Users/YOUNG/JOB/LeetCode/Matrix/bombEnemy.java",
+		"/Users/YOUNG/JOB/LeetCode/Matrix/shortestDistanceFromAllBuildings.java",
+		"/Users/YOUNG/JOB/LeetCode/Matrix/validSudoku.java",
+		"/Users/YOUNG/JOB/LeetCode/Matrix/sudokuSolver.java",
+		"/Users/YOUNG/JOB/LeetCode/Matrix/longestIncreasingPathInAMatrix.java",
+		"/Users/YOUNG/JOB/LeetCode/Matrix/KthSmallestElementInASortedMatrix.java",
+		"/Users/YOUNG/JOB/LeetCode/Matrix/searchA2DMatrix.java",
+		"/Users/YOUNG/JOB/LeetCode/Matrix/searchA2DMatrixII.java",
+		"/Users/YOUNG/JOB/LeetCode/Matrix/rangeAddition.java",
+		"/Users/YOUNG/JOB/LeetCode/Matrix/wordSearch.java",
+		"/Users/YOUNG/JOB/LeetCode/String/longestIncreasingPathInAMatrix.java",
+		"/Users/YOUNG/JOB/LeetCode/String/rotateImage.java",
+		"/Users/YOUNG/JOB/LeetCode/String/spiralMatrix.java",
+		"/Users/YOUNG/JOB/LeetCode/String/spiralMatrixII.java",
+		"/Users/YOUNG/JOB/LeetCode/String/setMatrixZeroes.java",
+		"/Users/YOUNG/JOB/LeetCode/String/sparseMatrixMultiplication.java",
+		"/Users/YOUNG/JOB/LeetCode/String/isSubsequence.java",
+		"/Users/YOUNG/JOB/LeetCode/String/distinctSubsequences.java",
+		"/Users/YOUNG/JOB/LeetCode/String/repeatedDNASequences.java",
+		"/Users/YOUNG/JOB/LeetCode/String/validParentheses.java",
+		"/Users/YOUNG/JOB/LeetCode/String/generateParentheses.java",
+		"/Users/YOUNG/JOB/LeetCode/String/longestValidParentheses.java",
+		"/Users/YOUNG/JOB/LeetCode/String/differentWaysToAddParentheses.java",
+		"/Users/YOUNG/JOB/LeetCode/String/removeInvalidParentheses.java",
+		"/Users/YOUNG/JOB/LeetCode/String/shortestPalindrome.java",
+		"/Users/YOUNG/JOB/LeetCode/String/palindromePairs.java",
+		"/Users/YOUNG/JOB/LeetCode/String/palindromePartitioning.java",
+		"/Users/YOUNG/JOB/LeetCode/String/palindromePartitioningII.java",
+		"/Users/YOUNG/JOB/LeetCode/String/palindromePermutationII.java",
+		"/Users/YOUNG/JOB/LeetCode/String/validPalindrome.java",
+		"/Users/YOUNG/JOB/LeetCode/String/palindromePermutation.java",
+		"/Users/YOUNG/JOB/LeetCode/String/longestPalindromicSubstring.java",
+		"/Users/YOUNG/JOB/LeetCode/String/palindromeNumber.java",
+		"/Users/YOUNG/JOB/LeetCode/String/longestSubstringWithoutRepeatingCharacters.java",
+		"/Users/YOUNG/JOB/LeetCode/String/longestSubstringWithAtMostTwoDistinctCharacters.java",
+		"/Users/YOUNG/JOB/LeetCode/String/longestSubstringWithAtMostKDistinctCharacters.java",
+		"/Users/YOUNG/JOB/LeetCode/String/longestSubstringWithAtLeastKRepeatingCharacters.java",
+		"/Users/YOUNG/JOB/LeetCode/String/substringWithConcatenationOfAllWords.java",
+		"/Users/YOUNG/JOB/LeetCode/String/minimumWindowSubstring.java",
+		"/Users/YOUNG/JOB/LeetCode/String/strobogrammaticNumber.java",
+		"/Users/YOUNG/JOB/LeetCode/String/strobogrammaticNumberII.java",
+		"/Users/YOUNG/JOB/LeetCode/String/textJustification.java",
+		"/Users/YOUNG/JOB/LeetCode/String/validNumber.java",
+		"/Users/YOUNG/JOB/LeetCode/String/readNCharactersGivenRead4.java",
+		"/Users/YOUNG/JOB/LeetCode/String/readNCharactersGivenRead4II.java",
+		"/Users/YOUNG/JOB/LeetCode/String/integerToEnglishWords.java",
+		"/Users/YOUNG/JOB/LeetCode/String/rearrangeStringKDistanceApart.java",
+		"/Users/YOUNG/JOB/LeetCode/String/removeDuplicateLetters.java",
+		"/Users/YOUNG/JOB/LeetCode/String/encodeAndDecodeStrings.java",
+		"/Users/YOUNG/JOB/LeetCode/String/excelSheetColumnTitle.java",
+		"/Users/YOUNG/JOB/LeetCode/String/excelSheetColumnNumber.java",
+		"/Users/YOUNG/JOB/LeetCode/String/groupShiftedStrings.java",
+		"/Users/YOUNG/JOB/LeetCode/String/scrambleString.java",
+		"/Users/YOUNG/JOB/LeetCode/String/oneEditDistance.java",
+		"/Users/YOUNG/JOB/LeetCode/String/countAndSay.java",
+		"/Users/YOUNG/JOB/LeetCode/String/groupAnagrams.java",
+		"/Users/YOUNG/JOB/LeetCode/String/validAnagram.java",
+		"/Users/YOUNG/JOB/LeetCode/String/wordPattern.java",
+		"/Users/YOUNG/JOB/LeetCode/String/flipGameII.java",
+		"/Users/YOUNG/JOB/LeetCode/String/flipGame.java",
+		"/Users/YOUNG/JOB/LeetCode/String/isomorphicStrings.java",
+		"/Users/YOUNG/JOB/LeetCode/String/ransomNote.java",
+		"/Users/YOUNG/JOB/LeetCode/String/reverseString.java",
+		"/Users/YOUNG/JOB/LeetCode/String/reverseWordsInAString.java",
+		"/Users/YOUNG/JOB/LeetCode/String/reverseWordsInAStringII.java",
+		"/Users/YOUNG/JOB/LeetCode/String/reverseVowelsOfAString.java",
+		"/Users/YOUNG/JOB/LeetCode/String/implementstrStr().java",
+		"/Users/YOUNG/JOB/LeetCode/String/longestCommonPrefix.java",
+		"/Users/YOUNG/JOB/LeetCode/String/lengthOfLastWord.java",
+		"/Users/YOUNG/JOB/LeetCode/String/firstUniqueCharacterInAString.java",
+		"/Users/YOUNG/JOB/LeetCode/moveZeroes.java",
+		"/Users/YOUNG/JOB/LeetCode/wiggleSubsequence.java",
+		"/Users/YOUNG/JOB/LeetCode/wiggleSort.java",
+		"/Users/YOUNG/JOB/LeetCode/wiggleSortII.java",
+		"/Users/YOUNG/JOB/LeetCode/Array/sortColors.java",
+		"/Users/YOUNG/JOB/LeetCode/Array/mergeSortedArray.java",
+		"/Users/YOUNG/JOB/LeetCode/Array/missingRanges.java",
+		"/Users/YOUNG/JOB/LeetCode/Array/summaryRanges.java",
+		"/Users/YOUNG/JOB/LeetCode/Array/productOfArrayExceptSelf.java",
+		"/Users/YOUNG/JOB/LeetCode/Array/maximumProductSubarray.java",
+		"/Users/YOUNG/JOB/LeetCode/Array/minimumSizeSubarraySum.java",
+		"/Users/YOUNG/JOB/LeetCode/Array/maximumSizeSubarraySumEqualsK.java",
+		"/Users/YOUNG/JOB/LeetCode/Array/maximumSubarray.java",
+		"/Users/YOUNG/JOB/LeetCode/Array/meetingRoomsII.java",
+		"/Users/YOUNG/JOB/LeetCode/Array/dataStreamAsDisjointIntervals.java",
+		"/Users/YOUNG/JOB/LeetCode/Array/slidingWindowMaximum.java",
+		"/Users/YOUNG/JOB/LeetCode/Array/findMedianFromDataStream.java"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "anagrams.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
