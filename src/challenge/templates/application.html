@@ -1,17 +1,5 @@
 {% extends "base.html" %}
 {% block content %}
-<div class='container'>
-	<h2>Upload a new Dictionary</h2>
-	<form method="POST" enctype="multipart/form-data"> {% csrf_token %}
-		{{ form.as_p }}
-		<div class="form-group row">
-			<div class="col-sm-10">
-				<button type="submit" class="btn btn-primary">Upload</button>
-			</div>
-		</div>
-		<!-- <input type='submit' value='upload' /> -->
-	</form>
-</div>
 <br>
 <div class='container'>
 	<h2>The following are the dictionaries that has been imported</h2>
@@ -58,6 +46,19 @@
 			</div>
 		</div>
 		<!-- <input type="submit" name="check"> -->
+	</form>
+</div>
+<br>
+<div class='container'>
+	<h2>Upload a new Dictionary</h2>
+	<form method="POST" enctype="multipart/form-data"> {% csrf_token %}
+		{{ form.as_p }}
+		<div class="form-group row">
+			<div class="col-sm-10">
+				<button type="submit" class="btn btn-primary">Upload</button>
+			</div>
+		</div>
+		<!-- <input type='submit' value='upload' /> -->
 	</form>
 </div>
 {% endblock content %}
