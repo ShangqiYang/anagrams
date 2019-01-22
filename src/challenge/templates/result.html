@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block content %}
+<h3>You searched for: <strong>{{ word }}</strong></h3>
+
+{% if anagrams_group is not None %}
+<p>This word: "{{ word }}"" exist in this dictionary.</p>
+<p>The following are this word's anagrams and sorted in by its second letter</p>
+<ul class="list-group">
+	{% for anagram in anagrams_group %}
+  <li class="list-group-item">{{ anagram }}</li>
+  {% endfor %}
+</ul>
+{% else %}
+<p>This <strong>{{ word }}</strong> dosen't exist in this dictionary.</p>
+{% endif %}
+<br>
+<div>
+	<a href="/" class="btn btn-primary">Back</a>
+</div>
+{% endblock content %}

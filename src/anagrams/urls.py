@@ -16,6 +16,10 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 
+from challenge.views import application_view, check_view
+
 urlpatterns = [
+	path('', application_view, name='application'),
+	path('result/', check_view, name='result'),
     path('admin/', admin.site.urls),
 ]
