@@ -1,8 +1,15 @@
 """
 Here is the core function of this application.
 
-Used Trie to stroe all the words in dictionary, cause Trie is very good and fast way to check if this word exits in the dictionary or not. 
+Used data structure Trie to stroe all the words in dictionary, cause Trie is very good and fast way to check if this word exist in the dictionary. And this way will save Time Complexity and Space Complexity (if we store all the words in list, and compare one by one to find it this word exist in this dictionay)
 
+Advantage: use dictionary_path as argument to init Trie, add word to Trie and at the same time append the sorted word to the anagrams_group dictionary. It's convenient to query the word's anagrams group.
+
+What I want to do in the future: 1. create detail page for every dictionary and pre-process the data of the dictionary. So you can repeatedly query words in the same dictionary. 2. Use AJAX to show the result, do not neet refresh page every time.
+
+For Big data, like a billion words, I will choose Hadoop or Spark to process these big data, cause they can provide powerful Map-Reduce job to handle these data. And I think Trie will still be a good way to implement this function.
+
+For real product: 1. Add user auth to make users register, login and check their own data 2. build secruity layer 3. Integrate with 3rd party framework like React, PostegreSQL to extent functionality and enrich content.
 
 """
 

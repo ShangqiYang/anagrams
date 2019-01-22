@@ -8,3 +8,4 @@ Create a data structure Trie to stroe word of dictionary. Can quickly find out i
 
 At the same resort the word by it's letter, then store in Python data structure - dictionary, can quickly find out the word's anagrams group.
 
+I wrote the explanations how I designed and built this application, the ideas what I can do in the future and the thoughts about the real product, big data, 3rd party library.

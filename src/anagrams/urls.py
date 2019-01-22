@@ -19,7 +19,9 @@ from django.urls import path
 from challenge.views import application_view, check_view
 
 urlpatterns = [
+	# use root url to render application_view, at the same as homepage
 	path('', application_view, name='application'),
+	# result/ url to present the result of word you input
 	path('result/', check_view, name='result'),
     path('admin/', admin.site.urls),
 ]

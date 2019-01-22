@@ -38,8 +38,6 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    # Third Party App
-
     # Own App
     'challenge',
 ]
@@ -59,6 +57,7 @@ ROOT_URLCONF = 'anagrams.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
+        # Add templates fold path
         'DIRS': [os.path.join(BASE_DIR, 'templates')],
         'APP_DIRS': True,
         'OPTIONS': {
@@ -125,6 +124,7 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 # Media files (dictionary of words)
+# Create media fold to upload and store the file(dictionary) 
 
 MEDIA_URL = '/media/'
 
